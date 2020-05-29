@@ -1,3 +1,3 @@
-# Pattern-Guided Gradient-Based Explainability Methods 
+# Pattern-Guided Integrated Gradients
 
 Coming soon ... 
