@@ -1,3 +1,1 @@
-# Pattern-Guided Integrated Gradients
-
 Coming soon ... 
