@@ -1,0 +1,7 @@
+pytorch
+torchvision
+scikit-image
+matplotlib
+nb_conda
+ipykernel
+numpy
