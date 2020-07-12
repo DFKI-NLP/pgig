@@ -1,7 +1,6 @@
 # Pattern-Guided Integrated Gradients
-Code accompanying [Pattern-Guided Integrated Gradients](http://link.link).
+Code accompanying the paper Pattern-Guided Integrated Gradients, presented at the 2020 ICML Workshop on Human Interpretability in MachineLearning (WHI 2020).
 
-{bibtex}
 
 For a quick overview, see the [synthetic experiments](https://github.com/rbtsbg/pattern-augmented-xai/blob/master/synthetic.ipynb). 
 
