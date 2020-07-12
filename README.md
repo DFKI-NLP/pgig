@@ -1,5 +1,5 @@
 # Pattern-Guided Integrated Gradients
-Code accompanying the paper Pattern-Guided Integrated Gradients, presented at the 2020 ICML Workshop on Human Interpretability in MachineLearning (WHI 2020).
+Code accompanying the paper Pattern-Guided Integrated Gradients, presented at the 2020 ICML Workshop on Human Interpretability in MachineLearning (WHI 2020) by Robert Schwarzenberg and Steffen Castle (equal contribution).
 
 
 For a quick overview, see the [synthetic experiments](https://github.com/rbtsbg/pattern-augmented-xai/blob/master/synthetic.ipynb). 
