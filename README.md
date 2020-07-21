@@ -6,7 +6,7 @@ For a quick overview, see the [synthetic experiments](https://github.com/rbtsbg/
 
 Input|Integrated Gradients | PatternAttribution | Pattern-Guided Integrated Gradients
 ---|---|---|---
-<img src="https://github.com/rbtsbg/pattern-augmented-xai/blob/master/images/elephant.png?raw=true" width=200 height=200 />|<img src="https://github.com/rbtsbg/pattern-augmented-xai/blob/master/images/integrate_grad.png?raw=true" width=200 height=200 /> | <img src="https://github.com/rbtsbg/pattern-augmented-xai/blob/master/images/pattern_vanilla_grad.png?raw=true" width=200 height=200 /> | <img src="https://github.com/rbtsbg/pattern-augmented-xai/blob/master/images/pattern_integrate_grad.png?raw=true" width=200 height=200 />
+<img src="https://github.com/dfki-nlp/pgig/blob/master/images/elephant.png?raw=true" width=200 height=200 />|<img src="https://github.com/dfki-nlp/pgig/blob/master/images/integrate_grad.png?raw=true" width=200 height=200 /> | <img src="https://github.com/dfki-nlp/pgig/blob/master/images/pattern_vanilla_grad.png?raw=true" width=200 height=200 /> | <img src="https://github.com/dfki-nlp/pgig/blob/master/images/pattern_integrate_grad.png?raw=true" width=200 height=200 />
 
 This repo is heavily based on the [visual-attribution](https://github.com/yulongwang12/visual-attribution) (07c79...) frame work by Yulong Wang (2018).
 
