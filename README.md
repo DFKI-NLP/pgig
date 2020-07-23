@@ -5,7 +5,7 @@ Code accompanying the paper [Pattern-Guided Integrated Gradients](https://arxiv.
 @inproceedings{pgig2020,
   title={Pattern-Guided Integrated Gradients},
   author={Schwarzenberg, Robert and Steffen Castle},
-  booktitle={Proceedings of the ICML 2020 Workshop on Human Interpretability in Machine Learning (WHI)},
+  booktitle={Proc. of the ICML 2020 Workshop on Human Interpretability in Machine Learning (WHI)},
   year={2020}
 }
 ```
