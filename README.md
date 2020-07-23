@@ -85,6 +85,6 @@ Pattern-Guided Integrated Gradients|pattern_integrate_grad
 
 # References 
 
-[1] Kindermans et al. 2017. Learning how to explain neural networks: PatternNet and PatternAttribution. 
+[1] Kindermans, Pieter-Jan, et al. "Learning how to explain neural networks: Patternnet and patternattribution." arXiv preprint arXiv:1705.05598 (2017). 
 
-[2] Sundararajan et al. 2017. Axiomatic attribution for deep networks.
+[2] Sundararajan, Mukund, Ankur Taly, and Qiqi Yan. "Axiomatic attribution for deep networks." arXiv preprint arXiv:1703.01365 (2017).
