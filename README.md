@@ -1,14 +1,14 @@
 # Pattern-Guided Integrated Gradients
 Code accompanying the paper [Pattern-Guided Integrated Gradients](https://arxiv.org/abs/2007.10685), presented at the [ICML 2020 Workshop on Human Interpretability in MachineLearning (WHI 2020)](http://whi2020.online/papers.html) by Robert Schwarzenberg and Steffen Castle (equal contribution).
 
-'''
+```
 @inproceedings{pgig2020,
   title={Pattern-Guided Integrated Gradients},
   author={Schwarzenberg, Robert and Steffen Castle},
   booktitle={Proceedings of the ICML 2020 Workshop on Human Interpretability in Machine Learning (WHI)},
   year={2020}
 }
-'''
+```
 
 
 For a quick overview, see the [synthetic experiments](https://github.com/dfki-nlp/pgig/blob/master/synthetic.ipynb). 
