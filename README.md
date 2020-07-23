@@ -1,7 +1,7 @@
 # Pattern-Guided Integrated Gradients
 (This repo is based on the [visual-attribution](https://github.com/yulongwang12/visual-attribution) (07c79...) frame work by Yulong Wang (2018).)
 
-Code accompanying the paper [Pattern-Guided Integrated Gradients](https://arxiv.org/abs/2007.10685), presented at the [ICML 2020 Workshop on Human Interpretability in MachineLearning (WHI 2020)](http://whi2020.online/papers.html) by Robert Schwarzenberg and Steffen Castle (equal contribution).
+Code accompanying the paper [Pattern-Guided Integrated Gradients](https://arxiv.org/abs/2007.10685), presented at the [ICML 2020 Workshop on Human Interpretability in MachineLearning (WHI 2020)](http://whi2020.online/papers.html) by Robert Schwarzenberg and Steffen Castle (equal contribution):
 
 ```
 @inproceedings{pgig2020,
