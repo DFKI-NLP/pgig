@@ -39,18 +39,14 @@ Weights and patterns can be downloaded using the scripts in the `weights` direct
 * [Patterns](https://cloud.dfki.de/owncloud/index.php/s/F8ofRWYJz6Bzw5C)
 * [Weights](https://cloud.dfki.de/owncloud/index.php/s/AYAdyCncgbbqxS6)
 
-## ImageNet key
-To find the ImageNet download key, 
-1. Login to image-net.org
-2. Visit [this page](http://www.image-net.org/challenges/LSVRC/2012/downloads)
-3. Copy the download URL for Training images (Task 1 & 2). 
-4. The key is in the URL as follows: http://www.image-net.org/challenges/LSVRC/2012/{imagenet_download_key}/ILSVRC2012_img_train.tar.
-
-
 
 # Degradation Experiment
 
 The degradation experiment can be executed by running `experiments/degradation_test.py`.
+
+## ImageNet 
+
+To run experiments, the validation set of ImageNet 2012 must already be downloaded and extracted locally, and the ImageNet directory must be specified using the `--data_dir` argument. The `--imagenet_download_key` argument and functionality to automatically download the ImageNet dataset is deprecated. 
 
 ## Arguments
 
@@ -61,7 +57,7 @@ Argument |Description
 --data_dir| Directory where imagenet validation set is downloaded, or where to download it
 --val_size| Number of samples to evaluate, default is the whole ImageNet validation set
 --n_patches| Number of patches to degrade, default is 100
---imagenet_download_key| Optional URL string for ImageNet download
+--imagenet_download_key| Optional URL string for ImageNet download (deprecated)
 
 ### Available methods
 
@@ -81,7 +77,7 @@ Pattern-Guided Integrated Gradients|pattern_integrate_grad
 
 ### Example
 
-```python3 experiments/degradation_test.py --methods vanilla_grad pattern_vanilla_grad integrate_grad pattern_integrate_grad --batch_size 100 --val_size 10000 --n_patches 100```
+```python3 experiments/degradation_test.py --methods vanilla_grad pattern_vanilla_grad integrate_grad pattern_integrate_grad --batch_size 100 --val_size 10000 --n_patches 100 --data_dir /mnt/hdd/datasets/imagenet/```
 
 # References 
 
