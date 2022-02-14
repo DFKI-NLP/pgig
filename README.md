@@ -14,6 +14,8 @@ Code accompanying the paper [Pattern-Guided Integrated Gradients](https://arxiv.
 
 For a quick overview, see the [synthetic experiments](https://github.com/dfki-nlp/pgig/blob/master/synthetic.ipynb). 
 
+Addendum: We now also present [arguments](https://github.com/DFKI-NLP/pgig/blob/master/pattern-attribution-implementation-invariance-camera-ready.ipynb) against the implementation invariance of PA and PGIG.
+
 Input|Integrated Gradients | PatternAttribution | Pattern-Guided Integrated Gradients
 ---|---|---|---
 <img src="https://github.com/dfki-nlp/pgig/blob/master/images/elephant.png?raw=true" width=200 height=200 />|<img src="https://github.com/dfki-nlp/pgig/blob/master/images/integrate_grad.png?raw=true" width=200 height=200 /> | <img src="https://github.com/dfki-nlp/pgig/blob/master/images/pattern_vanilla_grad.png?raw=true" width=200 height=200 /> | <img src="https://github.com/dfki-nlp/pgig/blob/master/images/pattern_integrate_grad.png?raw=true" width=200 height=200 />
