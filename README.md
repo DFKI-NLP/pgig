@@ -37,10 +37,7 @@ All other dependencies are listed in dependencies.txt
 # Data
 ## Weights and Patterns
 
-Weights and patterns can be downloaded using the `download_patterns.sh` script in the `weights` directory. In case the URLs become invalid, there are backups: 
-* [Patterns](https://cloud.dfki.de/owncloud/index.php/s/Q6pYgezGip6MNMK)
-* [Weights](https://cloud.dfki.de/owncloud/index.php/s/MoHdiFsbdx2wGCm)
-
+Weights and patterns can be downloaded using the `download_patterns.sh` script in the `weights` directory. In case the URLs become invalid, there are backups [here](https://drive.google.com/drive/folders/1GnkcrKAx1U5rFi_L3DH9IXzbOiiW9wAx). 
 
 # Degradation Experiment
 
